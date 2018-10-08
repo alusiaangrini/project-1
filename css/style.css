@@ -3,3 +3,36 @@ body  {
 	background: url('http://theincrediblestrength.club/wp-content/uploads/2018/02/blue-wall-texture-teal-blue-painted-brick-wall-texture-free-high-resolution-photo-blue-line-wall-texture.jpg');
 	background-size: cover;  
 }
+{margin:0; padding:0;}
+ 
+ nav {
+ margin:auto;
+ text-align: center;
+ width: 100%;
+ font-family: arial;
+ } 
+ nav ul {
+ background:#37988e;
+ padding: 0 20px;
+ list-style: none;
+ position: relative;
+ display: inline-table;
+ width: 100%;
+ }
+ nav ul li{
+ float:left;
+ }
+
+ nav ul li:hover{
+ background:#d68d9a;
+ }
+
+ nav ul li:hover a{
+ color:#000;
+ }
+
+ nav ul li a{
+ display: block;
+ padding: 25px;
+ color: #fff;
+ text-decoration: none;
