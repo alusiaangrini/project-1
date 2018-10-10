@@ -9,6 +9,9 @@ p{
 a{
     color: rgb(6, 57, 70)
 }
+a:hover{
+    color: yellowgreen
+}
 li{
     color: rgb(151, 10, 76)
 }
