@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');=Abril+Fatface|Playfair+Display');
 body  {
     color: #fff;
    background: url('http://theincrediblestrength.club/wp-content/uploads/2018/02/blue-wall-texture-teal-blue-painted-brick-wall-texture-free-high-resolution-photo-blue-line-wall-texture.jpg');
@@ -6,29 +6,35 @@ body  {
 }
 h1  {
    color: rgb(10, 10, 100);
-   font: 25px;
-   font-family: RooneySans-Regular,; "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;
+   font: 28px;
+   font-family: RooneySans-Regular, Lucida Sans, "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;
+   
 }
 h2  {
    color: rgb(179, 17, 17);
-   font: 20px;
+   font: 25px;
    font-family: 'Playfair Display', serif;
 }
 h3  {
    color: rgb(230, 128, 145);
+   font: 22px;
+   font family: 
 }
 p  {
-   color: rgba(8, 105, 89, 0.822);
+   color: rgb(0, 0, 255);
+   font: 20px
 }
 a   {
    color: rgb(6, 57, 70);
 }
 a:hover{
-   color: yellowgreen
+   color: yellowgreen;
 }
 ul  {
    color: rgb(151, 10, 76);
+   font: 18px;
 }
 ol  {
    color: rgb(180, 52, 73);
+   font: 
 }
