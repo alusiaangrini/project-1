@@ -17,12 +17,11 @@ h2  {
 }
 h3  {
    color: rgb(230, 128, 145);
-   font: 22px;
-   font family: 
+   font-size: 22px;
 }
 p  {
    color: rgb(0, 0, 255);
-   font: 20px
+   font-size: 20px;
 }
 a   {
    color: rgb(6, 57, 70);
@@ -32,9 +31,9 @@ a:hover{
 }
 ul  {
    color: rgb(151, 10, 76);
-   font: 18px;
+   font-size: 18px;
 }
 ol  {
    color: rgb(180, 52, 73);
-   font: 
+   font-size: 20px;
 }
