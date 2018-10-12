@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');=Abril+Fatface|Playfair+Display');
 body  {
-    color: #fff;
-   background: url('http://theincrediblestrength.club/wp-content/uploads/2018/02/blue-wall-texture-teal-blue-painted-brick-wall-texture-free-high-resolution-photo-blue-line-wall-texture.jpg');
-   background-size: cover;  
+    back 
 }
 h1  {
    color: rgb(10, 10, 100);
    font: 28px;
-   font-family: RooneySans-Regular, Lucida Sans, "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;
+   font-family: "RooneySans-Regular", "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;
    
 }
 h2  {
