@@ -5,31 +5,31 @@ body  {
    background-size: cover;  
 }
 h1  {
-   color: rgb(10, 10, 100)
+   color: rgb(10, 10, 100);
    font: 25px;
    font-family: RooneySans-Regular,; "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;
 }
 h2  {
-   color: rgb(179, 17, 17)
+   color: rgb(179, 17, 17);
    font: 20px;
    font-family: 'Playfair Display', serif;
 }
 h3  {
-   color: rgb(230, 128, 145)
+   color: rgb(230, 128, 145);
 }
 p  {
-   background-color: rgba(8, 10, 133, 0.849)
-   color: rgba(8, 105, 89, 0.822)
+   background-color: rgba(8, 10, 133, 0.849);
+   color: rgba(8, 105, 89, 0.822);
 }
 a   {
-   color: rgb(6, 57, 70)
+   color: rgb(6, 57, 70);
 }
 a:hover{
    color: yellowgreen
 }
 ul  {
-   color: rgb(151, 10, 76)
+   color: rgb(151, 10, 76);
 }
 ol  {
-   color: rgb(180, 52, 73)
+   color: rgb(180, 52, 73);
 }
