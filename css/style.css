@@ -48,11 +48,15 @@ div {
 }
 
 .box1 {
-    background-color: rgb(250, 128, 114)
+    background-color: rgb(250, 128, 114);
+    width: 200px;
+    height: 200px;
 }
 
 .box2 {
-    background-color: rgb(244, 164, 95)
+    background-color: rgb(244, 164, 95);
+    width: 200px;
+    height; 200px;
 }
 
 
