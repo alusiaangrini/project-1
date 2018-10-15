@@ -47,17 +47,22 @@ div {
     background-color: rgb(240, 128, 128);
 }
 
-.box1 {
+.bag1 {
     background-color: rgb(250, 128, 114);
-    width: 200px;
-    height: 200px;
+    width: 100%;
+    height: 1300px;
 }
 
-.box2 {
+.bag2 {
     background-color: rgb(244, 164, 95);
-    width: 200px;
-    height: 200px;
+    width: 100%;
+    height: 1300px;
 }
 
+.bag3 {
+    background-color: rgb(252, 192, 203);
+    width: 200px;
+    height: 1300px;
+}
 
 
