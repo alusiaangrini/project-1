@@ -42,23 +42,21 @@ ol  {
    font-size: 20px;
 }
 
-div {
-    color: rgb(250, 240, 230);
-    background-color: rgb(240, 128, 128);
-}
-
-.bag1 {
+.content {
     background-color: rgb(250, 128, 114);
-    width: 100%;
+    Float: left;
+    width: 60%;
     height: 50px;
+   
 }
 
-}
-
-.bag3 {
+.sidebar{
     background-color: rgb(252, 192, 203);
-    width: 100%;
+    float: right;
+    width: 40%;
     height: 700px;
 }
+
+
 
 
