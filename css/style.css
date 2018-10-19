@@ -46,7 +46,7 @@ ol  {
     background-color: rgb(250, 128, 114);
     Float: left;
     width: 60%;
-    height: 50px;
+    height: 800px;
     
    
 }
@@ -58,6 +58,17 @@ ol  {
     height: 800px;
 }
 
-
+.pengertian{
+    background-color: rgba(255, 234, 208,20);
+    float: left;
+    width: 50%;
+    height: 600px;
+}
+.unsur{
+    background-color: rgba(233, 150, 122,20);
+    float: left;
+    width: 50%;
+    height: 600px;
+}
 
 
