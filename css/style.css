@@ -7,22 +7,23 @@ a   {
    color: rgb(6, 57, 70);
 }
 
-a:hover{
+a:hover {
    color: yellowgreen;
 }
 
 /*index*/
-.header{
+.header {
     background-color: rgb(100, 149, 237);
     width: 100%;
     height: 70px
-       
-.judul{
-    background-color: white;
+}       
+.judul {
+    background-color: rgb(240, 248, 254);
+    color: rgb(100, 149, 237);
     width: 100%;
     height: 40px;
     text-align: center;
-    
+}   
 .content {
     background-color: rgb(250, 128, 114);
     Float: left;
@@ -31,7 +32,7 @@ a:hover{
       
 }
 
-.sidebar{
+.sidebar {
     background-color: rgb(252, 192, 203);
     float: right;
     width: 37%;
@@ -42,7 +43,7 @@ a:hover{
     padding-bottom: 5px;
 }
 
-.pengertian{
+.pengertian {
     
     background-color: rgba(255, 234, 208,20);
     float: left;
@@ -53,36 +54,37 @@ a:hover{
 
 /*unsur-unsur*/
 .unsur h4 {
+   color: rgb(0, 0, 0,);
    margin: 0;
    margin top: 50px; 
 }
 
-.unsur{
+.unsur {
     background-color: rgb(233, 150, 122,20);
     float: left;
     width: 50%;
     height: 600px;
     text-align: center;
 }
-.unsur1{
+.unsur1 {
     background-color: rgb(135, 206, 250);
     width: 95%;
     height: 120px;
     
 }
-.unsur2{
+.unsur2 {
     background-color: rgb(255, 227, 200);
     width: 95%;
     height: 120px;
     
 }
-.unsur3{
+.unsur3 {
     background-color: rgb(135, 206, 250);
     width: 95%;
     height: 120px;
     
 }
-.unsur4{
+.unsur4 {
     background-color: rgb(255, 227, 200);
     width: 95%;
     height: 120px;
@@ -90,7 +92,7 @@ a:hover{
 }
 
 /*footer*/
-.footer{
+.footer {
     position: relative;
     width=100%
     min-height: 405px;
@@ -99,56 +101,58 @@ a:hover{
     background: #f5f5f5;
 }
 /*footer1*/
-.footer-1{
+.footer-1 {
     background-color: rgb(105, 105, 105);
     border-style: inset;
     width: 100%;
     height: 400px;
- 
-.gambar1{
+}
+.gambar1 {
     float: left;
     width: 243px;
     height: 126px;
     margin-top: 27px;
-    
-.foot-msg .txt{
+}    
+.foot-msg .txt {
     height: 54px;
     font-size: 16px;
     line-height: 21px;
     color: #000;
-    
- .foot-msg .ps{
+}   
+ .foot-msg .ps {
     margin-right: 4px;
     width: 124px;
     height: 36px;
-     
-  .foot-msg .apple{
+}    
+  .foot-msg .apple {
     width: 124px;
     height: 36px;
-     
+}     
  /*footer2*/
-.footer-2{
+.footer-2 {
     background-color: rgb(105, 105, 105);
     border-style: inset;
     width: 100%;
     height: 200px; 
- 
-.gambarlink{
+} 
+.gambarlink {
     margin-top: 38px;
     text-align: center;
-    
-.gambarlink img{
+}   
+.gambarlink img {
     width: 50px;
     height: 50px;
-    
-.footer-3{
+}   
+.footer-3 {
     background-color: rgb(105, 105, 105);
     border-style: inset;
     width: 100%;
     height: 200px;   
-    
-.footer-3 ul{
+}    
+.footer-3 ul {
     width: 100%;
     height: 45px;
-
+}
+/*about*/
+    
     
