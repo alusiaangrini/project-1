@@ -3,29 +3,6 @@ body  {
     color: rgb(34, 173, 168);
 }
 
-h1  {
-   color: rgb(10, 10, 100);
-   font: 28px;
-   font-family: "RooneySans-Regular", "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", "Trebuchet MS", sans-serif;
-}
-
-h2  {
-   color: rgb(179, 17, 17);
-   font: 25px;
-   font-family: 'Playfair Display', serif;
-}
-
-h3  {
-   color: rgb(230, 128, 145);
-   font-size: 22px;
-}
- 
-
-p  {
-   color: rgb(6, 57, 70);
-   font-size: 20px;
-}
-
 a   {
    color: rgb(6, 57, 70);
 }
@@ -34,16 +11,24 @@ a:hover{
    color: yellowgreen;
 }
 
-
-
-
+/*index*/
+.header{
+    background-color: rgb(100, 149, 237);
+    width: 100%;
+    height: 70px
+       
+.judul{
+    background-color: white;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    
 .content {
     background-color: rgb(250, 128, 114);
     Float: left;
     width: 60%;
     height: 800px;
-    
-   
+      
 }
 
 .sidebar{
@@ -165,3 +150,5 @@ a:hover{
 .footer-3 ul{
     width: 100%;
     height: 45px;
+
+    
