@@ -33,16 +33,9 @@ a   {
 a:hover{
    color: yellowgreen;
 }
-ul  {
-   color: rgb(151, 10, 76);
-   font-size: 18px;
-}
 
-ol  {
-   background-color: rgb(254, 239, 213);
-   color: rgb(180, 52, 73);
-   font-size: 20px;
-}
+
+
 
 .content {
     background-color: rgb(250, 128, 114);
@@ -117,18 +110,51 @@ ol  {
     width: 100%;
     height: 700px;
 }
-
+/*footer1*/
 .footer-1{
     background-color: rgb(105, 105, 105);
+    border-style: inset;
     width: 100%;
     height: 400px;
+ 
+.gambar1{
+    float: left;
+    width: 243px;
+    height: 126px;
+    margin-top: 27px;
     
+.foot-msg .txt{
+    height: 54px;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000;
+    
+ .foot-msg .ps{
+    margin-right: 4px;
+    width: 124px;
+    height: 36px;
+     
+  .foot-msg .apple{
+    width: 124px;
+    height: 36px;
+     
+ /*footer2*/
 .footer-2{
     background-color: rgb(105, 105, 105);
+    border-style: inset;
     width: 100%;
     height: 200px; 
+ 
+.gambarlink{
+    margin-top: 38px;
+    text-align: center;
     
 .footer-3{
     background-color: rgb(105, 105, 105);
+    border-style: inset;
     width: 100%;
-    height: 200px;    
+    height: 200px;   
+    
+.footer-3 ul{
+    width: 100%;
+    height: 45px;
