@@ -1,158 +1,99 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display');=Abril+Fatface|Playfair+Display');
-body  {
-    color: rgb(34, 173, 168);
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+body {
+    background-image: url("https://lealtadesign.com/store/wp-content/gallery/wp-polos/mpi-3-web.jpg");
+    background-color: rgb(255, 227, 200);
 }
 
-a   {
-   color: rgb(6, 57, 70);
-}
-
-a:hover {
-   color: yellowgreen;
-}
-
-/*index*/
-.header {
-    background-color: rgb(100, 149, 237);
-    width: 100%;
-    height: 70px
-}       
-.judul {
-    background-color: rgb(240, 248, 254);
-    color: rgb(100, 149, 237);
-    width: 100%;
-    height: 40px;
-    text-align: center;
-}   
-.content {
-    background-color: rgb(250, 128, 114);
-    Float: left;
-    width: 60%;
-    height: 800px;
-      
-}
-
-.sidebar {
-    background-color: rgb(252, 192, 203);
+.nav {
     float: right;
-    width: 37%;
-    height: 800px;
-    padding-left: 8px;
-    padding-top: 5px;
-    padding-right: 4px;
-    padding-bottom: 5px;
+    background-color: bisque;
+    width: 100%;
+    height: 30px;
+    text-align: right;
+    margin-top: 20px;
 }
 
-.pengertian {
-    
-    background-color: rgba(255, 234, 208,20);
-    float: left;
+.nav a {
+    margin: 0 10px;
+}
+ .logo img{
+     float: left;
+     width: 70px;
+
+ }
+
+
+/*index-sidebar*/
+.h1 {
+    font-family: 'Lobster', cursive;
+}
+ .judul {
+     
+ }
+
+.banner{
+    position: static;
+    width: 90%;
+    height: 200px;
+}
+
+.banner img {
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+    border-style: double;
+    border-color:  rgb(184, 127, 120);
+}
+
+.ban1 img{
     width: 50%;
-    height: 600px;
+    height: 300px;
+    padding-left: 40px;
+    position: absolute;
+    top: 100px;
+    border-style: none;
+}
+
+.box1{
+    background-color: rgb(225, 248, 220);
+    width: 100%;
+    height: 25px;
+}
+
+.box1 .txt{
+    font-family: "comic sans ms", cursive;
     text-align: center;
 }
+.baju div {
+    margin-top: 360px;
+    margin-right: 15px;
 
-/*unsur-unsur*/
-.unsur h4 {
-   color: rgb(0, 0, 0,);
-   margin: 0;
-   margin top: 50px; 
-}
+ }
 
-.unsur {
-    background-color: rgb(233, 150, 122,20);
+.lets1{
+    margin-top: 25px;
+    margin-left: 15px;
     float: left;
-    width: 50%;
-    height: 600px;
-    text-align: center;
-}
-.unsur1 {
-    background-color: rgb(135, 206, 250);
-    width: 95%;
-    height: 120px;
-    
-}
-.unsur2 {
-    background-color: rgb(255, 227, 200);
-    width: 95%;
-    height: 120px;
-    
-}
-.unsur3 {
-    background-color: rgb(135, 206, 250);
-    width: 95%;
-    height: 120px;
-    
-}
-.unsur4 {
-    background-color: rgb(255, 227, 200);
-    width: 95%;
-    height: 120px;
-    
 }
 
-/*footer*/
-.footer {
-    position: relative;
-    width=100%
-    min-height: 405px;
-    margin-top: -406px;
-    border-top: 1px solid #e5e5e5;
-    background: #f5f5f5;
-}
-/*footer1*/
-.footer-1 {
-    background-color: rgb(105, 105, 105);
-    border-style: inset;
-    width: 100%;
-    height: 400px;
-}
-.gambar1 {
+.lets2{
+    margin-top: 25px;
+    margin-left: 5px;
     float: left;
-    width: 243px;
-    height: 126px;
-    margin-top: 27px;
-}    
-.foot-msg .txt {
-    height: 54px;
-    font-size: 16px;
-    line-height: 21px;
-    color: #000;
-}   
- .foot-msg .ps {
-    margin-right: 4px;
-    width: 124px;
-    height: 36px;
-}    
-  .foot-msg .apple {
-    width: 124px;
-    height: 36px;
-}     
- /*footer2*/
-.footer-2 {
-    background-color: rgb(105, 105, 105);
-    border-style: inset;
-    width: 100%;
-    height: 200px; 
-} 
-.gambarlink {
-    margin-top: 38px;
-    text-align: center;
-}   
-.gambarlink img {
-    width: 50px;
-    height: 50px;
-}   
-.footer-3 {
-    background-color: rgb(105, 105, 105);
-    border-style: inset;
-    width: 100%;
-    height: 200px;   
-}    
-.footer-3 ul {
-    width: 100%;
-    height: 45px;
 }
-/*about*/
-    
+  
+.lets3{
+    margin-top: 25px;
+    margin-left: 5px;
+    margin-right: 15px;
+    float: left;
+}  
+
+table img{
+    margin-top: 380px;
+    width: 100%;
+    height: 80px;
+}
+  
+  
     
